@@ -1,0 +1,6 @@
+{
+  "assets": [
+    { "id": "2", "name": "Asset 1", "lat": "1", "long": "2" },
+    { "id": "1", "name": "Asset 1", "lat": "1", "long": "2" }
+  ]
+}
